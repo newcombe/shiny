@@ -1,14 +1,15 @@
 ---
-title       : Pounds to Kilograms Conversion Tool
-subtitle    : A simple shiny app
-author      : C. Newcombe
-job         : Data Products Assignment
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+title: "Pounds to Kilograms Conversion Tool"
+author: "C. Newcombe"
+highlighter: highlight.js
+output: pdf_document
+job: Data Products Assignment
+knit: slidify::knit2slides
+mode: selfcontained
+hitheme: tomorrow
+subtitle: A simple shiny app
+framework: io2012
+widgets: []
 ---
 
 ## What does it do?
