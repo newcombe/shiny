@@ -23,7 +23,7 @@ This shiny app is a handy calculator!  You enter a weight in units of pounds, an
 The shiny app performs a calcuation for you, given the simple relationship of 2.2 pounds per kilogram.
 ```{r}
 wt <- 220
-wtkilo <- wt / 220
+wtkilo <- wt / 2.2
 wtkilo
 ```
 
