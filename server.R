@@ -1,4 +1,4 @@
-wtkilo <- function(wt) wt * 2.2
+wtkilo <- function(wt) wt / 2.2
 
 library(shiny)
 shinyServer(
